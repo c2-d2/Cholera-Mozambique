@@ -28,7 +28,7 @@ Formula: (√population*√(origin_population))/distance (Similar results obtain
 
 We scaled all risk scores to be between zero and one. The maps display each risk score separately, as well as an average of the scores when multiple indices are selected. 
 
-Further detail about the analysis and interpretation of the maps can be found [here](https://www.directrelief.org/2019/04/if-cyclone-kenneth-leads-to-cholera-in-mozambique-who-is-most-at-risk/).
+Further details about the analysis and interpretation of the maps can be found [here](https://www.directrelief.org/2019/04/if-cyclone-kenneth-leads-to-cholera-in-mozambique-who-is-most-at-risk/).
 
 Interactive versions of all maps are also available [here](https://mahmud-ayesha.shinyapps.io/Cholera-MOZ/).
 
