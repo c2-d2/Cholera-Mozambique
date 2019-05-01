@@ -19,6 +19,7 @@ Cyclone Kenneth: We assumed Tropical Cyclone Kenneth would follow the trajectory
 This risk index is based on modeled annual cholera incidence, based on previous cholera outbreak data and ecological data, from [Lessler et al.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)33050-7/)
 
 **El Niño sensitivity**
+
 This risk index is based on comparisons of cholera incidence between El Niño and non El Niño years, from [Moore et al.](https://www.pnas.org/content/114/17/4436/tab-figures-data) We only display sensitivity for districts that have higher incidence in El Niño years. 
 
 **Gravity model**
