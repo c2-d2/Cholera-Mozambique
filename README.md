@@ -38,3 +38,7 @@ Interactive versions of all maps are also available [here](https://mahmud-ayesha
 - `maps` - Risk maps for Cyclone Kenneth and Cyclone Idai
 - `supplementary maps` - Additional maps 
 
+![Main Figure](maps/Kenneth_incidence_flood_EN_map_ken.pdf "Main Figure")
+*For Cyclone Kenneth, the projected risk is an average of the flooding index, El Niño sensitivity index and previous cholera incidence. 
+
+
