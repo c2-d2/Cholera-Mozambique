@@ -1,0 +1,132 @@
+OBJECTID,ID_0,ISO,NAME_0,ID_1,NAME_1,ID_2,NAME_2,HASC_2,CCN_2,CCA_2,TYPE_2,ENGTYPE_2,NL_NAME_2,VARNAME_2,_count,_sum,_mean
+1,153,MOZ,Mozambique,1,Cabo Delgado,1,Ancuabe,MZ.CD.AN,,,Distrito,District,,,31094,250173.259,8.045708465
+2,153,MOZ,Mozambique,1,Cabo Delgado,2,Balama,MZ.CD.BA,,,Distrito,District,,,20563,160182.1984,7.789826311
+3,153,MOZ,Mozambique,1,Cabo Delgado,3,Chi�re,MZ.CD.CH,,,Distrito,District,,,17586,171263.5166,9.738628264
+4,153,MOZ,Mozambique,1,Cabo Delgado,4,Macomia,MZ.CD.MA,,,Distrito,District,,,14097,114784.9931,8.142512099
+5,153,MOZ,Mozambique,1,Cabo Delgado,5,Mecufi,MZ.CD.MC,,,Distrito,District,,,2225,37909.68518,17.03806076
+6,153,MOZ,Mozambique,1,Cabo Delgado,6,Meluco,MZ.CD.ML,,,Distrito,District,,,3918,27053.49504,6.904924717
+7,153,MOZ,Mozambique,1,Cabo Delgado,7,Mocimboa da Praia,MZ.CD.MP,,,Distrito,District,,,19022,113355.4266,5.959174986
+8,153,MOZ,Mozambique,1,Cabo Delgado,8,Montepuez,MZ.CD.MN,,,Distrito,District,,,30836,256119.2554,8.305852103
+9,153,MOZ,Mozambique,1,Cabo Delgado,9,Mueda,MZ.CD.MD,,,Distrito,District,,,28311,144937.0879,5.119461972
+10,153,MOZ,Mozambique,1,Cabo Delgado,10,Muidumbe,MZ.CD.MB,,,Distrito,District,,,20457,86906.76276,4.248265277
+11,153,MOZ,Mozambique,1,Cabo Delgado,11,Namuno,MZ.CD.NM,,,Distrito,District,,,25127,237520.1205,9.452784672
+12,153,MOZ,Mozambique,1,Cabo Delgado,12,Nangade,MZ.CD.NG,,,Distrito,District,,,14219,81299.26027,5.717649643
+13,153,MOZ,Mozambique,1,Cabo Delgado,13,Palma,MZ.CD.PA,,,Distrito,District,,,9017,58501.56084,6.487918469
+14,153,MOZ,Mozambique,1,Cabo Delgado,14,Pemba,MZ.CD.PM,,,Distrito,District,,Pemba-Metuge,20216,313852.3937,15.52495022
+15,153,MOZ,Mozambique,1,Cabo Delgado,15,Quissanga,MZ.CD.QU,,,Distrito,District,,,2512,38763.73813,15.43142441
+16,153,MOZ,Mozambique,2,Gaza,16,Bilene,MZ.GA.BM,,,Distrito,District,,Bilene-Macia,29673,181984.901,6.133013211
+17,153,MOZ,Mozambique,2,Gaza,17,Ch�kw�,MZ.GA.CK,,,Distrito,District,,,24601,206109.302,8.378086339
+18,153,MOZ,Mozambique,2,Gaza,18,Chibuto,MZ.GA.CB,,,Distrito,District,,,38210,236713.6377,6.195070341
+19,153,MOZ,Mozambique,2,Gaza,19,Chicualacuala,MZ.GA.CC,,,Distrito,District,,,6401,47291.23293,7.388100755
+20,153,MOZ,Mozambique,2,Gaza,20,Chigubo,MZ.GA.CG,,,Distrito,District,,,3514,32031.64558,9.115436988
+21,153,MOZ,Mozambique,2,Gaza,21,Guij�,MZ.GA.GU,,,Distrito,District,,,12566,101099.9116,8.045512619
+22,153,MOZ,Mozambique,2,Gaza,22,Mabalane,MZ.GA.MB,,,Distrito,District,,,4927,41445.84651,8.411984272
+23,153,MOZ,Mozambique,2,Gaza,23,Mandlakazi,,,,Distrito,District,,,27152,188756.0367,6.951828106
+24,153,MOZ,Mozambique,2,Gaza,24,Massangena,MZ.GA.MS,,,Distrito,District,,,2371,19447.11257,8.202071941
+25,153,MOZ,Mozambique,2,Gaza,25,Massingir,MZ.GA.MG,,,Distrito,District,,,4336,37701.24488,8.694936549
+26,153,MOZ,Mozambique,2,Gaza,26,Xai-Xai,MZ.GA.XX,,,Distrito,District,,,51391,414295.6604,8.061638426
+27,153,MOZ,Mozambique,3,Inhambane,27,Funhalouro,MZ.IN.FU,,,Distrito,District,,,6424,48431.39515,7.53913374
+28,153,MOZ,Mozambique,3,Inhambane,28,Govuro,MZ.IN.GO,,,Distrito,District,,,5689,42798.29449,7.522990769
+29,153,MOZ,Mozambique,3,Inhambane,29,Homoine,MZ.IN.HO,,,Distrito,District,,,30138,261286.9411,8.669684158
+30,153,MOZ,Mozambique,3,Inhambane,30,Inharrime,MZ.IN.IR,,,Distrito,District,,,10527,128143.805,12.17287024
+31,153,MOZ,Mozambique,3,Inhambane,31,Inhassoro,MZ.IN.IS,,,Distrito,District,,,7477,58422.26387,7.813596879
+32,153,MOZ,Mozambique,3,Inhambane,32,Jangamo,MZ.IN.JA,,,Distrito,District,,,23474,195231.3281,8.316917786
+33,153,MOZ,Mozambique,3,Inhambane,33,Mabote,MZ.IN.MB,,,Distrito,District,,,6968,50847.28054,7.297256104
+34,153,MOZ,Mozambique,3,Inhambane,34,Massinga,MZ.IN.MS,,,Distrito,District,,,41868,202275.1176,4.831258182
+35,153,MOZ,Mozambique,3,Inhambane,35,Morrumbene,MZ.IN.MO,,,Distrito,District,,,25202,146382.0918,5.808352187
+36,153,MOZ,Mozambique,3,Inhambane,36,Panda,MZ.IN.PA,,,Distrito,District,,,5622,52406.64174,9.321707887
+37,153,MOZ,Mozambique,3,Inhambane,37,Vilanculos,MZ.IN.VI,,,Distrito,District,,Vilankulo,21126,169272.9301,8.012540475
+38,153,MOZ,Mozambique,3,Inhambane,38,Zavala,MZ.IN.ZA,,,Distrito,District,,,18954,160954.3141,8.491838879
+39,153,MOZ,Mozambique,4,Manica,39,Barue,MZ.MN.BA,,,Distrito,District,,,20176,231092.2251,11.45381766
+40,153,MOZ,Mozambique,4,Manica,40,Gondola,MZ.MN.GO,,,Distrito,District,,,55322,701660.7956,12.68321455
+41,153,MOZ,Mozambique,4,Manica,41,Guro,MZ.MN.GU,,,Distrito,District,,,5386,101348.1867,18.81696746
+42,153,MOZ,Mozambique,4,Manica,42,Machaze,MZ.MN.MZ,,,Distrito,District,,,14048,140941.4962,10.03285138
+43,153,MOZ,Mozambique,4,Manica,43,Macossa,MZ.MN.MS,,,Distrito,District,,,3197,50450.33803,15.78052488
+44,153,MOZ,Mozambique,4,Manica,44,Manica,MZ.MN.MN,,,Distrito,District,,,37166,304457.2588,8.191822063
+45,153,MOZ,Mozambique,4,Manica,45,Mossurize,MZ.MN.MO,,,Distrito,District,,,28318,305083.2133,10.77347317
+46,153,MOZ,Mozambique,4,Manica,46,Sussundenga,MZ.MN.SU,,,Distrito,District,,,17997,181545.9974,10.08757
+47,153,MOZ,Mozambique,4,Manica,47,Tambara,MZ.MN.TA,,,Distrito,District,,,2426,55523.2329,22.88674068
+48,153,MOZ,Mozambique,5,Maputo City,48,Boane,MZ.MP.BO,,,Distrito,District,,,41175,54824.35473,1.331496168
+49,153,MOZ,Mozambique,5,Maputo City,49,Maputo,,,,Distrito,District,,,111933,2347211.199,20.96978727
+50,153,MOZ,Mozambique,6,Maputo,50,Boane,MZ.MP.BO,,,Distrito,District,,,37196,106527.373,2.863947011
+51,153,MOZ,Mozambique,6,Maputo,51,Magude,MZ.MP.MG,,,Distrito,District,,,10232,69763.27331,6.818146336
+52,153,MOZ,Mozambique,6,Maputo,52,Manhi�a,MZ.MP.MN,,,Distrito,District,,,32734,198455.1553,6.06266131
+53,153,MOZ,Mozambique,6,Maputo,53,Marracuene,MZ.MP.MR,,,Distrito,District,,,30903,166460.0975,5.386535208
+54,153,MOZ,Mozambique,6,Maputo,54,Matutu�ne,MZ.MP.MT,,,Distrito,District,,,11518,42956.66331,3.72952451
+55,153,MOZ,Mozambique,6,Maputo,55,Moamba,MZ.MP.MO,,,Distrito,District,,,15114,75590.18448,5.001335482
+56,153,MOZ,Mozambique,6,Maputo,56,Namaacha,MZ.MP.NA,,,Distrito,District,,,9160,56699.19882,6.189868867
+57,153,MOZ,Mozambique,7,Nampula,57,Angoche,MZ.NM.AN,,,Distrito,District,,,25026,348167.8217,13.91224413
+58,153,MOZ,Mozambique,7,Nampula,58,Erati,,,,Distrito,District,,,19885,140959.1971,7.088719995
+59,153,MOZ,Mozambique,7,Nampula,59,Lalaua,MZ.NM.LA,,,Distrito,District,,,13742,98397.25798,7.160330227
+60,153,MOZ,Mozambique,7,Nampula,60,Malema,MZ.NM.MA,,,Distrito,District,,,30208,215679.7021,7.139820648
+61,153,MOZ,Mozambique,7,Nampula,61,Meconta,MZ.NM.MC,,,Distrito,District,,,28025,201581.3188,7.192910572
+62,153,MOZ,Mozambique,7,Nampula,62,Mecuburi,MZ.NM.MB,,,Distrito,District,,,19334,207644.7773,10.73987676
+63,153,MOZ,Mozambique,7,Nampula,63,Memba,MZ.NM.MM,,,Distrito,District,,,33444,292041.0645,8.732240896
+64,153,MOZ,Mozambique,7,Nampula,64,Mogovolas,MZ.NM.MV,,,Distrito,District,,,55686,393465.4456,7.065787552
+65,153,MOZ,Mozambique,7,Nampula,65,Moma,MZ.NM.MO,,,Distrito,District,,,36485,412303.4274,11.3006284
+66,153,MOZ,Mozambique,7,Nampula,66,Monapo,MZ.NM.MN,,,Distrito,District,,,43923,417314.0476,9.501036987
+67,153,MOZ,Mozambique,7,Nampula,67,Mongincual,MZ.NM.MG,,,Distrito,District,,Mogincual,14703,198443.7698,13.49682173
+68,153,MOZ,Mozambique,7,Nampula,68,Mossuril,MZ.NM.MS,,,Distrito,District,,,23832,212171.9388,8.902817172
+69,153,MOZ,Mozambique,7,Nampula,69,Muecate,MZ.NM.MU,,,Distrito,District,,,19420,130332.7761,6.711265506
+70,153,MOZ,Mozambique,7,Nampula,70,Murrupula,MZ.NM.MR,,,Distrito,District,,,25101,196929.6085,7.845488567
+71,153,MOZ,Mozambique,7,Nampula,71,Nacala Velha,MZ.NM.NV,,,Distrito,District,,Nacala-Velha,34169,379915.2397,11.1187111
+72,153,MOZ,Mozambique,7,Nampula,72,Namapa,,,,Distrito,District,,,51843,344589.1511,6.646782615
+73,153,MOZ,Mozambique,7,Nampula,73,Nampula,,,,Distrito,District,,,78661,1040691.659,13.23008428
+74,153,MOZ,Mozambique,7,Nampula,74,Ribaue,MZ.NM.RI,,,Distrito,District,,,37815,271626.5348,7.183036752
+75,153,MOZ,Mozambique,8,Nassa,75,Cuamba,MZ.NS.CU,,,Distrito,District,,,30230,269518.5971,8.9156003
+76,153,MOZ,Mozambique,8,Nassa,76,Lago Niassa,,,,Water body,Water body,,,13,113.5196222,8.732278634
+77,153,MOZ,Mozambique,8,Nassa,76,Lago Niassa,MZ.NS.LI,,,Water body,Water body,,,1.004218644,52.66924625,52.44798687
+78,153,MOZ,Mozambique,8,Nassa,77,Lago,MZ.NS.LA,,,Distrito,District,,,10005,122920.8231,12.28593934
+79,153,MOZ,Mozambique,8,Nassa,78,Lichinga,MZ.NS.LI,,,Distrito,District,,,29449,371940.9465,12.6300026
+80,153,MOZ,Mozambique,8,Nassa,79,Ma�a,MZ.NS.MU,,,Distrito,District,,,6520,64842.59727,9.945183631
+81,153,MOZ,Mozambique,8,Nassa,80,Majune,MZ.NS.MJ,,,Distrito,District,,,2959,43560.37817,14.7213174
+82,153,MOZ,Mozambique,8,Nassa,81,Mandimba,MZ.NS.MN,,,Distrito,District,,,6823,55425.35248,8.123311224
+83,153,MOZ,Mozambique,8,Nassa,82,Marrupa,MZ.NS.MR,,,Distrito,District,,,7366,73433.95792,9.969312778
+84,153,MOZ,Mozambique,8,Nassa,83,Mavago,MZ.NS.MV,,,Distrito,District,,,2732,32229.14035,11.7969035
+85,153,MOZ,Mozambique,8,Nassa,84,Mecanhelas,MZ.NS.MS,,,Distrito,District,,,35170,467462.2349,13.29150512
+86,153,MOZ,Mozambique,8,Nassa,85,Mecula,MZ.NS.MC,,,Distrito,District,,,1683,17771.36563,10.55933787
+87,153,MOZ,Mozambique,8,Nassa,86,Metarica,MZ.NS.MT,,,Distrito,District,,,5334,42508.00954,7.969255632
+88,153,MOZ,Mozambique,8,Nassa,87,Muembe,MZ.NS.MM,,,Distrito,District,,,3842,43410.26063,11.29887054
+89,153,MOZ,Mozambique,8,Nassa,88,N'gauma,MZ.NS.NG,,,Distrito,District,,,7666,115739.5098,15.09777065
+90,153,MOZ,Mozambique,8,Nassa,89,Nipepe,MZ.NS.NI,,,Distrito,District,,,5882,36590.61541,6.220777867
+91,153,MOZ,Mozambique,8,Nassa,90,Sanga,MZ.NS.SA,,,Distrito,District,,,6574,75536.59459,11.49020301
+92,153,MOZ,Mozambique,9,Sofala,91,Buzi,MZ.SO.BU,,,Distrito,District,,,20219,186641.955,9.231018103
+93,153,MOZ,Mozambique,9,Sofala,92,Caia,MZ.SO.CA,,,Distrito,District,,,9853,157288.5741,15.96352117
+94,153,MOZ,Mozambique,9,Sofala,93,Chemba,MZ.SO.CM,,,Distrito,District,,,3388,84321.59331,24.88830971
+95,153,MOZ,Mozambique,9,Sofala,94,Cheringoma,MZ.SO.CR,,,Distrito,District,,,2890,54263.41853,18.77626939
+96,153,MOZ,Mozambique,9,Sofala,95,Chibabava,MZ.SO.CB,,,Distrito,District,,,17159,145197.5003,8.461885908
+97,153,MOZ,Mozambique,9,Sofala,96,Dondo,MZ.SO.DO,,,Distrito,District,,,20082,668971.2929,33.3119855
+98,153,MOZ,Mozambique,9,Sofala,97,Gorongosa,MZ.SO.GO,,,Distrito,District,,,12940,174100.8985,13.45447438
+99,153,MOZ,Mozambique,9,Sofala,98,Machanga,MZ.SO.MC,,,Distrito,District,,,5555,51642.67223,9.296610662
+100,153,MOZ,Mozambique,9,Sofala,99,Maringue,MZ.SO.MG,,,Distrito,District,,,6190,101840.8395,16.45247811
+101,153,MOZ,Mozambique,9,Sofala,100,Marromeu,MZ.SO.MM,,,Distrito,District,,,7423,192046.5482,25.87182382
+102,153,MOZ,Mozambique,9,Sofala,101,Muanza,MZ.SO.MU,,,Distrito,District,,,2146,41681.04586,19.42266816
+103,153,MOZ,Mozambique,9,Sofala,102,Nhamatanda,MZ.SO.NH,,,Distrito,District,,,20733,313568.6104,15.12413111
+104,153,MOZ,Mozambique,10,Tete,103,Ang�nia,MZ.TE.AN,,,Distrito,District,,,41958,373214.7801,8.894961154
+105,153,MOZ,Mozambique,10,Tete,104,Cahora Bassa,MZ.TE.CB,,,Distrito,District,,Cahora-Bassa,9098,130167.1424,14.30722603
+106,153,MOZ,Mozambique,10,Tete,105,Changara,MZ.TE.CG,,,Distrito,District,,,32928,443069.9799,13.45572096
+107,153,MOZ,Mozambique,10,Tete,106,Chifunde,MZ.TE.CF,,,Distrito,District,,,10597,192959.29,18.20886006
+108,153,MOZ,Mozambique,10,Tete,107,Chiuta,MZ.TE.CT,,,Distrito,District,,,7112,111831.7552,15.72437503
+109,153,MOZ,Mozambique,10,Tete,108,Macanga,MZ.TE.MC,,,Distrito,District,,,26803,241106.5104,8.995504621
+110,153,MOZ,Mozambique,10,Tete,109,Magoe,MZ.TE.MG,,,Distrito,District,,,6616,119947.5837,18.12992499
+111,153,MOZ,Mozambique,10,Tete,110,Maravia,MZ.TE.MR,,,Distrito,District,,,8148,129236.2207,15.86109729
+112,153,MOZ,Mozambique,10,Tete,111,Moatize,MZ.TE.MT,,,Distrito,District,,,20486,416709.0692,20.3411632
+113,153,MOZ,Mozambique,10,Tete,112,Mutarara,MZ.TE.MU,,,Distrito,District,,,13253,351987.0146,26.55904434
+114,153,MOZ,Mozambique,10,Tete,113,Tsangano,MZ.TE.TS,,,Distrito,District,,,22698,263385.9145,11.60392609
+115,153,MOZ,Mozambique,10,Tete,114,Zumbu,MZ.TE.ZU,,,Distrito,District,,Zumbo,4600,94507.38393,20.54508346
+116,153,MOZ,Mozambique,11,Zambezia,115,Alto Molocue,MZ.ZA.AM,,,Distrito,District,,,41873,398826.1196,9.52466075
+117,153,MOZ,Mozambique,11,Zambezia,116,Chinde,MZ.ZA.CH,,,Distrito,District,,,7040,121702.9032,17.28734421
+118,153,MOZ,Mozambique,11,Zambezia,117,Gile,MZ.ZA.GI,,,Distrito,District,,,36040,233843.5465,6.488444687
+119,153,MOZ,Mozambique,11,Zambezia,118,Gurue,MZ.ZA.GU,,,Distrito,District,,,45297,447161.1789,9.87176146
+120,153,MOZ,Mozambique,11,Zambezia,119,Ile,MZ.ZA.IL,,,Distrito,District,,,65248,383432.1333,5.876534657
+121,153,MOZ,Mozambique,11,Zambezia,120,Inhassunge,MZ.ZA.IN,,,Distrito,District,,,8383,101215.0926,12.07385096
+122,153,MOZ,Mozambique,11,Zambezia,121,Lugela,MZ.ZA.LU,,,Distrito,District,,,29065,176378.4732,6.068414699
+123,153,MOZ,Mozambique,11,Zambezia,122,Maganja da Costa,MZ.ZA.MC,,,Distrito,District,,,21352,346198.6622,16.21387515
+124,153,MOZ,Mozambique,11,Zambezia,123,Milange,MZ.ZA.ML,,,Distrito,District,,,90454,746844.8904,8.256626467
+125,153,MOZ,Mozambique,11,Zambezia,124,Mocuba,MZ.ZA.MB,,,Distrito,District,,,54260,422481.7901,7.786247514
+126,153,MOZ,Mozambique,11,Zambezia,125,Mopeia,MZ.ZA.MP,,,Distrito,District,,,10538,181506.0365,17.22395487
+127,153,MOZ,Mozambique,11,Zambezia,126,Morrumbala,MZ.ZA.MR,,,Distrito,District,,,38776,529408.2482,13.65298763
+128,153,MOZ,Mozambique,11,Zambezia,127,Namacurra,MZ.ZA.NC,,,Distrito,District,,,16303,227797.1592,13.97271417
+129,153,MOZ,Mozambique,11,Zambezia,128,Namarroi,MZ.ZA.NR,,,Distrito,District,,Namaroi,29388,170499.2705,5.801662942
+130,153,MOZ,Mozambique,11,Zambezia,129,Nicoadala,MZ.ZA.NI,,,Distrito,District,,,34259,539131.6858,15.73693587
+131,153,MOZ,Mozambique,11,Zambezia,130,Pebane,MZ.ZA.PE,,,Distrito,District,,,23797,255889.9244,10.75303292
