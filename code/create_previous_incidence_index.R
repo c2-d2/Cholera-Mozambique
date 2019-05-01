@@ -6,7 +6,7 @@ rm(list = ls())
 setwd("./data")
 
 # read in tiff file as raster (use stack to get multiple layers)
-str_name<-"./MOZ_lambda_per_cell.tif" # file to large (please contact us for access)
+str_name<-"./MOZ_lambda_per_cell.tif" # !!file too large (please contact us for access)
 IR=stack(str_name)
 
 # get mean of 1000 layers
