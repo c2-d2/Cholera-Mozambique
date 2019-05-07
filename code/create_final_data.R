@@ -18,8 +18,8 @@ rm(list = ls())
 setwd("./code")
 
 #### Put together all the data ####
-# load gravity model + shapefile
-load("~/Google Drive/CholeraMozambique/cleaned_data/gravity_model_FBpop.Rdata")
+# load gravity model (for movement from Beira) + shapefile
+load("./gravity_model_FBpop.Rdata")
 
 # convert gravity model to 0 - 1 index
 all.dat@data$gm.ind <- (all.dat@data$trav - min(all.dat@data$trav)) / (max(all.dat@data$trav) - min(all.dat@data$trav))
@@ -40,6 +40,10 @@ all.dat@data$EN.ind <- (el_nino_means$EN.ind)
 load("./flooding_data_Kenneth.Rdata")
 all.dat$flood.ind.ken <- flood.unc$flood.ind.ken
 all.dat$flood.ind.ken[is.na(all.dat$flood.ind.ken )] <- 0
+
+# add gravity model for movement from Pemba
+load("./gravity_model_FBpop_Kenneth.Rdata")
+all.dat@data$gm.ind.pemba <-  (grav.df$travPemba - min(grav.df$travPemba)) / (max(grav.df$travPemba) - min(grav.df$travPemba))
 
 #### Create risk indices for Cyclone Idai ####
 # create risk score combining gravity and flood
